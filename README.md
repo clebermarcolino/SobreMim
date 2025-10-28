@@ -1,4 +1,3 @@
-```
 # Sobre Mim - Cleber Marcolino
 
 ## Descrição
@@ -82,7 +81,3 @@ Após abrir o arquivo `index.html` em seu navegador, você poderá:
     _Uma visão geral da página pessoal de Cleber Marcolino._
     ```
     Você pode criar uma pasta `docs` e salvar a imagem lá, como `docs/screenshot.png`.
-
----
-
-O que você achou? Ficou bom? Me diga se quer alguma alteração ou adição!
