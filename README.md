@@ -45,4 +45,4 @@ Como este é um projeto de página web estática, a instalação é bastante sim
     ```
     ## Visualização
     Aqui está uma captura de tela da página do projeto:
-    ![tela](https://github.com/user-attachments/assets/66043d2d-44e8-46fe-aaf3-6b22cd06508a)
+    ![Image](https://github.com/user-attachments/assets/1e148354-56aa-489a-9958-51c5c9fab605)
