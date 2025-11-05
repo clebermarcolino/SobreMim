@@ -82,8 +82,8 @@ main p {
 }
 
 .redes-sociais li {
-    width: 100%; /* Mantém a largura total em telas menores */
-    max-width: 100%; /* Ajusta para telas pequenas */
+    width: 100%;
+    max-width: 100%;
     margin: 15px 0;
     display: flex;
     align-items: center;
