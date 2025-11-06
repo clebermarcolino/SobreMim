@@ -34,11 +34,15 @@ Como este é um projeto de página web estática, a instalação é bastante sim
 
 ```
 .
-├── gitigone/                    
-│   └── imagens/ (obs) imagens/ # Contém as imagens utilizadas no projeto (foto de perfil, ícones de redes sociais)
+├── assets/ # Contém as imagens utilizadas no projeto (foto de perfil, ícones de redes sociais)                    
+│   └── foto_de_perfil.png
+│   └── icone_favicon.png
+│   └── icone_github.png
+│   └── icone_instagram.png
+│   └── icone_linkedin.png
+│   └── icone_whatsapp.png
 ├── index.html                  # O arquivo HTML principal da página
 ├── styles.css                  # O arquivo CSS para estilização da página
-├── icone_favicon.png           # Ícone que aparece na aba do navegador
 └── README.md                   # Este arquivo
 ```
 
