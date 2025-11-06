@@ -46,6 +46,4 @@ Como este é um projeto de página web estática, a instalação é bastante sim
 └── README.md                   # Este arquivo
 ```
 
-## Visualização
-Aqui está uma captura de tela da página do projeto:
-![Image](https://github.com/user-attachments/assets/1e148354-56aa-489a-9958-51c5c9fab605)
+O site está disponível no github pages.
