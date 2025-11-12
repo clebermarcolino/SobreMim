@@ -103,12 +103,15 @@ main p {
     color: #1e3c72;
     text-decoration: none;
     font-weight: bold;
-    transition: color 0.3s ease;
+    transition: color 0.3s ease, all 0.3s ease;
+    display: inline-block;
+    transform: translateY(0);
 }
 
 .redes-sociais a:hover {
     color: #2a5298;
     text-decoration: underline;
+    transform: translateY(-3px);
 }
 
 .icone_whatsapp {
